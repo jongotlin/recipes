@@ -1,0 +1,20 @@
+{
+    "aliases": {
+        "2fa": "scheb/2fa-bundle"
+    },
+    "recipes": {
+        "scheb/2fa-bundle": [
+            "5.0",
+            "6.0"
+        ]
+    },
+    "versions": [],
+    "branch": "master",
+    "is_contrib": false,
+    "_links": {
+        "repository": "github.com/symfony/recipes",
+        "origin_template": "{package}:{version}@github.com/symfony/recipes:master",
+        "recipe_template": "https://raw.githubusercontent.com/symfony/recipes/flex/pull-1047/{package_dotted}.{version}.json",
+        "archived_recipes_template": "https://raw.githubusercontent.com/symfony/recipes/flex/pull-1047/archived/{package_dotted}/{ref}.json"
+    }
+}
